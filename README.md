@@ -24,5 +24,8 @@ The Vaishali Store wants to create an annual sales report for 2022. So that, the
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+<img width="1320" height="433" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/14e4bab6-34bb-47c5-8896-85c33981648f" />
+
 
 
