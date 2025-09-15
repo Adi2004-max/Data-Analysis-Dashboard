@@ -16,4 +16,6 @@ The Vaishali Store wants to create an annual sales report for 2022. So that, the
 - Highest selling category?
 - Percentage of Total Orders delivered
 
+- Dashboard Interaction <a href="https://github.com/Adi2004-max/Data-Analysis-Dashboard/blob/main/Screenshot%20(1).png">View Dashboard</a>
+
 
